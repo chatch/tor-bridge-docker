@@ -1,0 +1,14 @@
+# Contact
+Nickname TorDocker
+#ContactInfo Random Person <nobody AT example dot com>
+
+# Bridge
+SocksPort 0
+ORPort 443
+BridgeRelay 1
+Exitpolicy reject *:*
+
+# Arm
+ControlPort 9051
+DisableDebuggerAttachment 0
+
